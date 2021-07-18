@@ -1,4 +1,4 @@
-##### Projeto: Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot.
+## Projeto: Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot.
 
 A origem deste projeto é do curso de Java da DIO (Digital Innovation One),
 no qual eu fiz o curso e acompanhei o instrutor na aplicação do mesmo.
